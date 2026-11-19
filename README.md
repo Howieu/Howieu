@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/avatar.png" width="120" alt="Howie">
-
 <h1>Howie</h1>
 
-<p>Howie builds with AI. 做 AI 产品，现在在 SHEIN 做策略分析。</p>
+<h3>做业务敢用的 AI 产品</h3>
 
 <p>
   <a href="https://howieu.com">howieu.com</a> &nbsp;/&nbsp;
@@ -13,6 +11,11 @@
 </p>
 
 </div>
+
+- **数字可信**：数字由程序计算，模型只写结论。宜家 ChatBI 先澄清口径再取数，用户确认理解正确的比例 99.5%；ReportAgent 同样的数据两次运行结论一致。
+- **AI 落地到流程**：在 SHEIN 把竞对月报改成机器出初稿、人做终审的工作流，每期人工工时减少约 85%。
+- **一个人从需求做到上线**：知选和 ReportAgent 从调研、定位到开发部署都自己完成，已在线可用。
+- **数据底子**：数据科学硕士在读（曼彻斯特大学），做过丝芙兰 BI、凯度品牌研究和 SHEIN 竞对分析。
 
 ## Products
 

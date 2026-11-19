@@ -22,7 +22,6 @@
 
 ## 关键文件
 - README.md — 主页正文
-- assets/avatar.png — 头像，来自 ../personal-site/avatar/memoji_cutout.png
 
 ## 最近一次改动了 AGENTS.md 的哪些条目
 2026-11-19：创建。

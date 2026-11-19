@@ -8,7 +8,9 @@
 GitHub 主页一眼看出 Howie 做什么、做过什么、去哪看。
 
 ## 范围
-- 居中页头：头像、名字、一句定位、个人站链接（参考 op7418）
+- 居中页头：名字、一句定位、个人站链接（参考 op7418）；不放头像
+- 个人优势四条：数字可信、AI 落地到流程、从需求到上线、数据底子；事实以简历项目为准
+- GitHub bio 同步改写
 - 产品清单：线上可用的作品，链线上地址（参考 oil-oil "My Products"）
 - 开源项目表：项目、一句话、星标徽章（参考 oil-oil "Featured Skills"）
 - 联系方式
@@ -25,8 +27,9 @@ GitHub 主页一眼看出 Howie 做什么、做过什么、去哪看。
 - [x] 所有链接 200 — 核对方式：curl
 
 ## 任务
-- [x] T1 写 README.md、assets/avatar.png
+- [x] T1 写 README.md
 - [x] T2 建 Howieu/Howieu 公开仓库并推送
 
 ## 变更记录
 - 2026-11-19 创建（Claude Code）
+- 2026-11-19 去掉 memoji 头像和原介绍句，加个人优势，改 bio（Claude Code）

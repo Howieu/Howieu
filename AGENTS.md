@@ -7,7 +7,6 @@ GitHub 个人主页（Howieu/Howieu 仓库的 README.md），推送即上线到 
 
 ## 目录地图
 - README.md      主页正文，GitHub 直接渲染
-- assets/        README 用到的图片
 - docs/specs/    功能规格
 
 ## 常用命令
