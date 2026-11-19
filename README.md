@@ -4,8 +4,6 @@
 
 <h1>Howie</h1>
 
-<h3>做业务敢用的 AI 产品</h3>
-
 <p>
   <a href="https://howieu.com">howieu.com</a> &nbsp;/&nbsp;
   <a href="mailto:howie.guo19@gmail.com">Email</a> &nbsp;/&nbsp;
